@@ -10,6 +10,8 @@ jupyter = "*"
 numpy = "*"
 matplotlib = "*"
 pandas = "*"
+sklearn = "*"
+floo = "*"
 
 [dev-packages]
 
